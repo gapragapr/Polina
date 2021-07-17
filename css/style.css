@@ -148,3 +148,8 @@ footer{
     font-family: "Open Sans";
     transform: skewY(-20deg);
 }
+@media (min-width: 641px) {
+    body{
+        display: none;
+    }
+}
